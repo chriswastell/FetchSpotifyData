@@ -1,3 +1,5 @@
+package org.wastell.spotifydata;
+
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.concurrent.Executor;

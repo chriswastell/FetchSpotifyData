@@ -1,3 +1,5 @@
+package org.wastell.spotifydata;
+
 import java.util.concurrent.Callable;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonElement;

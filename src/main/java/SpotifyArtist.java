@@ -1,3 +1,6 @@
+package org.wastell.spotifydata;
+
+
 import com.google.gson.JsonParser;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;

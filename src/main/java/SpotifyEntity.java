@@ -1,3 +1,5 @@
+package org.wastell.spotifydata;
+
 import java.util.List;
 
 /*

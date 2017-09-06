@@ -1,3 +1,5 @@
+package org.wastell.spotifydata;
+
 import java.net.URL;
 import java.net.MalformedURLException;
 import java.net.ProtocolException;
@@ -16,6 +18,7 @@ import java.io.*; //TODO Figure this out later..
 /*
 * A set of utilities to help make spotify queries
 */
+
 
 class SpotifyUtils{
 

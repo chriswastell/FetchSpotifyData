@@ -1,3 +1,5 @@
+package org.wastell.spotifydata;
+
 import java.util.concurrent.Executor;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;

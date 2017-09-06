@@ -1,3 +1,5 @@
+package org.wastell.spotifydata;
+
 public class InvalidResponseException extends Exception{
 
 
